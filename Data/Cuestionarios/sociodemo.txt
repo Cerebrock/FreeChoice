@@ -1,0 +1,16 @@
+Responda las siguientes preguntas usando el teclado. 
+Escriba su respuesta primero y presione Enter para continuar.
+
+¿Cuántos años tiene?
+
+Ingrese su sexo biológico. M = MASCULINO o F = FEMENINO
+
+¿Cuántos años de educación formal tuvo? 
+(por ejemplo: primario + secundario + universidad + posgrados...)
+
+¿Es actualmente estudiante universitario o terciario? "SI" o "NO"
+
+¿Cree que abusa del consumo de alguna droga recreacional? "SI" o "NO"
+
+¿Fue diagnosticado alguna vez con alguna condición psicológica o psiquiátrica? "SI" o "NO"
+

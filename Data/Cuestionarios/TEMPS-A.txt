@@ -1,0 +1,116 @@
+﻿Marque V (Verdadero) en todas las frases que sean aplicables a usted durante la mayor parte de su vida. Marque F (Falso) para todo el resto de las frases que no sean aplicables a usted la mayor parte de su vida.
+
+
+Presione Enter para comenzar
+
+1. Soy una persona triste, infeliz
+2. La gente me dice que soy incapaz de ver el lado bueno de las cosas
+3. He sufrido mucho en la vida
+4. Pienso que a menudo las cosas salen mal / peor
+5. Abandono fácilmente
+6. Desde siempre me he sentido un/a fracasado/a
+7. Siempre me he sentido culpable por cosas que los demás considerarían poco importantes
+8. No tengo tanta energía como otras personas
+9. Soy la clase de persona a quién no le gustan demasiado los cambios
+10. Cuando estoy en grupo prefiero escuchar a los demás
+11. A menudo cedo ante los demás
+12. Me siento muy inseguro/a al conocer gente nueva
+13. Me siento fácilmente herido por las críticas o el rechazo
+14. Soy el tipo de persona con la que siempre se puede contar
+15. Pongo las necesidades de los demás por encima de las mías
+16. Soy una persona muy trabajadora
+17. Preferiría trabajar para otra persona que ser el jefe
+18. Es natural en mí ser pulcro/a y organizado/a
+19. Soy el tipo de persona que duda de todo
+20. Mi deseo sexual ha sido siempre bajo
+21. Normalmente necesito dormir más de 9 horas
+22. A menudo me siento cansado/a sin motivo
+23. Tengo cambios repentinos de humor y energía
+24. Mi ánimo y energía son altos o bajos, raramente entre esos dos extremos
+25. Mi habilidad para pensar varía mucho, pasando de ser aguda a torpe sin ningún motivo aparente
+26. Puedo pasar de que alguien me guste mucho a perder totalmente el interés en esa persona
+27. A menudo exploto con la gente y luego me siento culpable
+28. A menudo empiezo cosas perdiendo el interés antes de acabarlas
+29. Mi estado de ánimo cambia a menudo sin ningún motivo
+30. Paso constantemente de ser vital a estar perezoso/a
+31. A veces me voy a la cama triste pero me levanto por la mañana sintiéndome fantástico/a
+32. A veces me voy a la cama sintiéndome genial y me levanto por la mañana sintiendo que no  vale la pena vivir
+33. Me dicen que a menudo me pongo pesimista y que olvido los tiempos felices del pasado
+34. Paso de tener mucha confianza en mí mismo/a a sentirme inseguro/a
+35. Paso de ser abierto/a a ser retraído/a con los demás
+36. Siento todas las emociones intensamente
+37. Mi necesidad de dormir cambia mucho, pasando de necesitar unas pocas horas de sueño a más de 9 horas
+38. La manera en que veo las cosas es a veces intensa pero otras veces apagada
+39. Soy el tipo de persona que puede estar triste o contenta a la vez
+40. Muy a menudo sueño despierto/a cosas que otras personas consideran imposibles de conseguir
+41. A menudo tengo un fuerte impulso por hacer cosas escandalosas
+42. Soy el tipo de persona que se enamora y se desenamora fácilmente
+43. Mi estado de ánimo es generalmente optimista y alegre
+44. La vida es una fiesta que disfruto al máximo
+45. Me gusta contar chistes, la gente dice que soy divertido/a
+46. Soy el tipo de persona que cree que finalmente todo saldrá bien
+47. Tengo gran confianza en mí mismo/a
+48. A menudo tengo ideas brillantes
+49. Estoy siempre muy activo/a
+50. Puedo hacer muchas cosas sin cansarme
+51. Tengo un don para el habla, convenzo e inspiro a los demás
+52. Me gusta emprender nuevos proyectos, aunque sean arriesgados
+53. Una vez decido hacer algo nada puede detenerme
+54. Me siento totalmente cómodo/a incluso estando con personas que apenas conozco
+55. Me encanta estar con mucha gente
+56. La gente me dice que a menudo meto la nariz en los asuntos de los demás
+57. La gente me considera una persona generosa, que gasta mucho dinero en los demás
+58. Tengo habilidades y conocimientos en muchas áreas
+59. Siento que tengo el derecho y el privilegio de hacer lo que quiera
+60. Soy el tipo de persona a quién le gusta ser el jefe
+61. Cuando no estoy de acuerdo con alguien puedo meterme en una discusión acalorada
+62. Mi deseo sexual es siempre alto
+63. Normalmente puedo pasar con menos de 6 horas de sueño
+64. Soy una persona malhumorada (irritable)
+65. Soy una persona insatisfecha por naturaleza
+66. Me quejo mucho
+67. Soy muy crítico/a con los demás
+68. A menudo me siento impaciente
+69. A menudo me siento tenso/a
+70. Me siento impulsado por una inquietud desagradable que no comprendo
+71. A menudo me enfado tanto que lo destrozaría todo
+72. Cuando estoy de malhumor podría meterme en una pelea
+73. La gente me dice que exploto por nada
+74. Cuando me enojo respondo bruscamente
+75. Me gusta tomarle el pelo a la gente, incluso a la que apenas conozco
+76. Mi humor ácido me ha metido en problemas
+77. Puedo ponerme tan furioso/a que podría herir a alguien
+78. Soy tan celoso de mi esposo/a (o amante) que no puedo soportarlo
+79. La gente dice que insulto mucho
+80. Me han dicho que me pongo violento/a con sólo unos tragos
+81. Soy una persona muy escéptica
+82. Podría ser un/a revolucionario/a
+83. Mi deseo sexual es a menudo tan intenso que llega a ser realmente desagradable
+84. (Mujeres solo): Tengo ataques incontrolables de ira antes de la menstruación
+85. Que yo recuerde siempre he sido una persona aprensiva
+86. Me preocupo siempre por una cosa u otra
+87. Me siguen preocupando cosas cotidianas que los demás consideran poco importantes
+88. No puedo hacer nada para dejar de preocuparme
+89. Mucha gente me ha dicho que no me preocupe tanto
+90. Cuando estoy estresado/a, a menudo mi mente se queda en blanco
+91. Soy incapaz de relajarme
+92. A menudo me siento muy inquieto/a por dentro
+93. Cuando estoy estresado/a, a menudo me tiemblan las manos
+94. A menudo tengo molestias en el estómago
+95. Cuando estoy nervioso/a, puedo tener diarrea
+96. Cuando estoy nervioso/a a menudo tengo náuseas
+97. Cuando estoy nervioso/a, tengo que ir con frecuencia al baño
+98. Cuando alguien tarda en volver a casa temo que haya tenido un accidente
+99. A menudo temo que alguien de mi familia contraiga una enfermedad grave
+100. Siempre estoy pensando que alguien pueda darme malas noticias sobre un miembro de mi familia
+101. Mi sueño no es descansado
+102. Frecuentemente tengo dificultad para dormirme
+103. Soy, por naturaleza, una persona muy cautelosa
+104. A menudo me despierto por la noche asustado/a pensando si hay ladrones en la casa
+105. Cuando estoy estresado/a, fácilmente sufro dolores de cabeza
+106. Cuando estoy estresado/a siento una sensación desagradable en el pecho
+107. Soy una persona insegura
+108. Incluso pequeños cambios en la rutina me estresan mucho
+109. Cuando manejo, incluso aunque no he hecho nada incorrecto, tengo miedo de que la policía pueda pararme
+110. Los ruidos inesperados me sobresaltan fácilmente
+

@@ -1,0 +1,45 @@
+Aparecerán abajo algunas expresiones que las personas usan para describirse. Lea cada frase y presione el número que indique cómo se siente ahora mismo, siendo 
+1 = NO, 2 = POCO, 3 = BASTANTE, 4 = MUCHO.
+
+No hay contestaciones buenas o malas. No emplee mucho tiempo en cada frase, pero trate de dar la respuesta que mejor describa sus sentimientos ahora. Presione Enter para comenzar.
+
+1. Me siento calmado.
+
+2. Me siento seguro.
+
+3. Estoy tenso.
+
+4. Estoy contrariado.
+
+5. Me siento a gusto.
+
+6. Me siento alterado.
+
+7. Estoy alterado por algún posible contratiempo.
+
+8. Me siento descansado.
+
+9. Me siento ansioso.
+
+10. Me siento cómodo.
+
+11. Me siento con confianza en mí mismo.
+
+12. Me siento nervioso.
+
+13. Estoy agitado.
+
+14. Me siento “a punto de explotar”.
+
+15. Me siento relajado.
+
+16. Me siento satisfecho.
+
+17. Estoy preocupado.
+
+18. Me siento muy excitado y aturdido.
+
+19. Me siento alegre.
+
+20. Me siento bien.
+

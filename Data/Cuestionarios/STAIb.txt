@@ -1,0 +1,45 @@
+Aparecerán abajo algunas expresiones que las personas usan para describirse. Lea cada frase y presione en el teclado el número que indique cómo se siente generalmente, siendo 
+1 = CASI NUNCA, 2 = ALGUNAS VECES, 3 = FRECUENTEMENTE y 4 = CASI SIEMPRE.
+
+No hay contestaciones buenas o malas. No emplee mucho tiempo en cada frase, pero describa cómo se siente generalmente. Presione Enter para comenzar.
+
+21. Me siento bien.
+
+22. Me canso rápidamente.
+
+23. Siento ganas de llorar.
+
+24. Quisiera ser tan feliz.
+
+25. Me pierdo cosas por no poder decidirme rápidamente.
+
+26. Me siento descansado.
+
+27. Soy un persona “tranquila serena y sosegada”.
+
+28. Siento que las dificultades se amontonan al punto de no poder soportarlas.
+
+29. Me preocupo demasiado por cosas sin importancia.
+
+30. Soy feliz.
+
+31. Me inclino a tomar las cosas muy a pecho.
+
+32. Me falta confianza en mí mismo.
+
+33. Me siento seguro.
+
+34. Trato de evitar enfrentar una crisis o dificultad.
+
+35. Me siento melancólico.
+
+36. Estoy satisfecho.
+
+37. Algunas ideas poco importantes pasan por mi mente.
+
+38. Me afectan tanto los desengaños que no me los puedo quitar de la cabeza.
+
+39. Soy una persona estable.
+
+40. Cuando pienso en los asuntos que tengo entre manos me pongo tenso y alterado.
+
